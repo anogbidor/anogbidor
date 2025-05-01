@@ -1,26 +1,44 @@
-<h1 align="center">Hi 👋.  I'm Abraham</h1>
-<h4 align="center">I’m a Frontend Developer who thrives on transforming ideas into functional, user-friendly web applications. I enjoy working across both frontend and backend technologies and am always eager to learn and grow. Contributing to open source is a passion of mine—I love collaborating with others to build meaningful projects. If you enjoy building cool things, or just want to chat about projects, let’s connect!</h4>
+<h1 align="center">Hi 👋, I'm Abraham</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abrahamic&label=Profile%20views&color=0e75b6&style=flat" alt="abrahamic" /> </p>
+<h3 align="center">
+  A Frontend Developer who thrives on transforming ideas into functional, user-friendly web applications.
+</h3>
 
+<p align="center">
+  I enjoy working across both frontend and backend technologies and am always eager to learn and grow.<br/>
+  Contributing to open source is a passion of mine—I love collaborating with others to build meaningful projects.<br/>
+  If you enjoy building cool things or just want to chat about projects, let’s connect!
+</p>
 
-- I’m looking to collaborate on both **frontend and backend projects**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abrahamic&label=Profile%20views&color=0e75b6&style=flat" alt="abrahamic" />
+</p>
 
-- 📝 I regularly write articles on https://medium.com/@abrahamogbidor
+---
 
-- 💬 Ask me about **react, vue, python, express, node, javascript**
+### 🌱 About Me
 
-- 📫 How to reach me **abrahamogbidor@gmail.com**
+- 🔭 I’m looking to collaborate on both **frontend and backend projects**
+- 📝 I regularly write articles on [Medium](https://medium.com/@abrahamogbidor)
+- 💬 Ask me about **React, Vue, Python, Express, Node, JavaScript**
+- 📫 Reach me at **abrahamogbidor@gmail.com**
+- 📄 [View my resume](https://drive.google.com/file/d/15kOs6l9MOJrb4tO1EDmYC-pD1an8ROOB/view?usp=drive_link)
+- ⚡ Fun fact: **I think I'm funny 🤣 😹**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/15kOs6l9MOJrb4tO1EDmYC-pD1an8ROOB/view?usp=drive_link
+---
 
-- ⚡ Fun fact: **I think i'm funny**
+### 🤝 Connect with Me
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@abramiccode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@abramiccode" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abraham-ogbidor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abraham-ogbidor" height="30" width="40" /></a>
-<a href="https://medium.com/@abrahamogbidor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abrahamogbidor" height="30" width="40" /></a>
+  <a href="https://codepen.io/@abramiccode" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/abraham-ogbidor" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@abrahamogbidor" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

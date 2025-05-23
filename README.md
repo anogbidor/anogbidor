@@ -22,7 +22,7 @@
 - 📝 I regularly write articles on [Medium](https://medium.com/@abrahamogbidor)
 - 💬 Ask me about **React, Vue, Python, Express, Node, JavaScript**
 - 📫 Reach me at **abrahamogbidor@gmail.com**
-- 📄 [View my resume](https://drive.google.com/file/d/1h--y8CHdVsj5v4H2w-oYuGmeAVVJ0hye/view?usp=sharing)
+- 📄 [View my resume](https://drive.google.com/file/d/15KeXgJLnoe7M4qtsAOWcd5Wz99Ys5EuO/view?usp=drive_link)
 - ⚡ Fun fact: **I think I'm funny 🤣 😹**
 
 ---
